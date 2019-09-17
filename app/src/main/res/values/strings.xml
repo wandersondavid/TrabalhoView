@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Trabalho View</string>
+    <string-array name="estado_array">
+        <item>Goias</item>
+        <item>Sao Paulo</item>
+        <item>Rio de Janeiros</item>
+        <item>Tocantins</item>
+        <item>Bahia</item>
+        <item>Acre</item>
+        <item>Amazonia</item>
+        <item>Brasilia</item>
+    </string-array>
+
+    <string-array name="cidade_array">
+        <item>Professor Jamil</item>
+        <item>Morrinhos</item>
+        <item>Goiania</item>
+        <item>Caldas Nova</item>
+        <item>Rio Verde</item>
+        <item>Salvador</item>
+        <item>São Paulo</item>
+        <item>Manaus</item>
+    </string-array>
+</resources>
